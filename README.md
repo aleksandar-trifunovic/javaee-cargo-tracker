@@ -1,1 +1,1 @@
-# javaee-cargo-tracker
+# Service Registry Application

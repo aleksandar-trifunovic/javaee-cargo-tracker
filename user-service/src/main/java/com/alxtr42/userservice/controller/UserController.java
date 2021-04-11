@@ -26,4 +26,5 @@ public class UserController {
         log.info("Inside getUserWithDepartment method of UserController");
         return userService.getUserWithDepartment(userId);
     }
+
 }
